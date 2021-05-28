@@ -1,0 +1,6 @@
+application_key = "xxxxx"
+application_secret = "xxxxx"
+consumer_key = "xxxxx"
+
+domain = "domain.com"
+subdomain = "peering"
